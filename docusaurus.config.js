@@ -13,8 +13,8 @@ const config = {
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "Latitude Inc.", // Usually your GitHub org/user name.
+  projectName: "Thoth", // Usually your repo name.
 
   presets: [
     [
@@ -42,7 +42,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "Thoth",
+        title: "Home",
         logo: {
           alt: "Thoth",
           src: "img/thoth-logo.png",
@@ -52,7 +52,7 @@ const config = {
             type: "doc",
             docId: "intro",
             position: "left",
-            label: "Tutorial",
+            label: "Intro",
           },
           // { to: "/blog", label: "Blog", position: "left" },
           {
