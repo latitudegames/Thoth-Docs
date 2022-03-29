@@ -44,8 +44,8 @@ const config = {
       navbar: {
         title: "Thoth",
         logo: {
-          alt: "My Site Logo",
-          src: "img/logo.svg",
+          alt: "Thoth",
+          src: "img/thoth-logo.png",
         },
         items: [
           {
